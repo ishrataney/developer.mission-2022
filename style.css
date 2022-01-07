@@ -1,0 +1,34 @@
+h1 {
+    font-family: 'EB Garamond', serif;
+    margin: auto;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.blue-color {
+    color: teal;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 60%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(teal, rgb(92, 76, 92));
+    color: rgb(245, 239, 239);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
