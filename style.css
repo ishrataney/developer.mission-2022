@@ -1,11 +1,11 @@
 h1 {
     font-family: 'EB Garamond', serif;
-    margin: auto;
+    margin-right: 3px;
 
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .blue-color {
@@ -20,11 +20,14 @@ section {
 .half-width {
     width: 50%;
     padding-left: 5%;
+    padding: 20px;
+
 
 }
 
 .half-width img {
-    width: 50%;
+    width: 60%;
+    margin-bottom: 20px;
 }
 
 .link-button {
@@ -78,4 +81,18 @@ section {
 .mission3-item img {
     width: 50%;
     margin-left: 0%;
+}
+
+.half-width1 {
+
+    height: 70%;
+    padding: 100px;
+
+}
+
+.half-width1 img {
+    width: 70%;
+    padding: 50px;
+
+
 }
